@@ -1,0 +1,11 @@
+/home/tanujs/Desktop/assignment2/final_assignment2/target/debug/deps/linux_raw_sys-da80134f4d1c8c41.rmeta: /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/lib.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/elf.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/errno.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/general.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/ioctl.rs
+
+/home/tanujs/Desktop/assignment2/final_assignment2/target/debug/deps/liblinux_raw_sys-da80134f4d1c8c41.rlib: /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/lib.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/elf.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/errno.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/general.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/ioctl.rs
+
+/home/tanujs/Desktop/assignment2/final_assignment2/target/debug/deps/linux_raw_sys-da80134f4d1c8c41.d: /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/lib.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/elf.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/errno.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/general.rs /home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/ioctl.rs
+
+/home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/lib.rs:
+/home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/elf.rs:
+/home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/errno.rs:
+/home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/general.rs:
+/home/tanujs/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.4.7/src/x86_64/ioctl.rs:
