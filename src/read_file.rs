@@ -84,7 +84,7 @@ pub fn read_dept_file_data(file_path:String, id : i32, temp :&mut HashMap<String
                 DataType::Float(v) => v.to_string().parse::<i32>().unwrap(),
                 _ => 0,
             };
-            if 
+            
             if dept_id == id
             {
                 let dept_title = match &row[1]{
